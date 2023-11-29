@@ -1,0 +1,4 @@
+[submodule "DAP-UAP-Raiduts"]
+	path = DAP-UAP-Raiduts
+	url = https://github.com/Raiduts/DAP-UAP-Raiduts.git
+	branch = base
